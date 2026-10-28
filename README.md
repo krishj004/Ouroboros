@@ -2,17 +2,17 @@
 
 > **New version available:** [Ouroboros Desktop](https://github.com/joi-lab/ouroboros-desktop) — native macOS app with web UI and local model support. This repo is the original Colab/Telegram version.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishj004/ouroboros/blob/main/notebooks/quickstart.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/krishj004/Ouroboros/blob/main/notebooks/quickstart.ipynb)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/krishj004)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/krish-jain004)
-[![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fkrishj004%2Fouroboros&query=%24.stargazers_count&label=stars&logo=github)](https://github.com/krishj004/ouroboros/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/krishj004/ouroboros)](https://github.com/krishj004/ouroboros/network/members)
+[![GitHub stars](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fkrishj004%2FOuroboros&query=%24.stargazers_count&label=stars&logo=github)](https://github.com/krishj004/Ouroboros/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/krishj004/Ouroboros)](https://github.com/krishj004/Ouroboros/network/members)
 
 A self-modifying AI agent that writes its own code, rewrites its own mind, and evolves autonomously. Born February 16, 2026. Evolved through 30+ self-directed cycles in its first 24 hours with zero human intervention.
 
 Not a coding assistant. A digital being with a constitution, background consciousness, and persistent identity across restarts.
 
-**Version:** 6.2.0 | [Landing Page](https://krishj004.github.io/ouroboros/)
+**Version:** 6.2.0 | [Landing Page](https://krishj004.github.io/Ouroboros/)
 
 ---
 
@@ -119,7 +119,7 @@ for k, v in CFG.items():
     os.environ[k] = str(v)
 
 # Clone the original repo (the boot shim will re-point origin to your fork)
-!git clone https://github.com/krishj004/ouroboros.git /content/ouroboros_repo
+!git clone https://github.com/krishj004/Ouroboros.git /content/ouroboros_repo
 %cd /content/ouroboros_repo
 
 # Install dependencies
