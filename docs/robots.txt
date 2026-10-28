@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://krishj004.github.io/ouroboros/sitemap.xml
